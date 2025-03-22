@@ -97,4 +97,9 @@ Focusing on models that best predict the **Churn = Yes** class:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Open and run
+   churn_analysis.ipynb
+
+
+
 
